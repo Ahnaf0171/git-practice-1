@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+
 heloo i am ahnaf and i am a student of brac university
-=======
+
 heloo i am ahnaf i am a student 
->>>>>>> 872ba3e555d90075b1d9f5dbcbdc5f35b76785bc
+new line added
+
